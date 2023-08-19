@@ -6,7 +6,6 @@
 =================
 
 > <h3>:file_folder: Diretórios:</h3>
-
 - /publico
 - /adm
 - /sec</p>
