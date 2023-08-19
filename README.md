@@ -5,19 +5,19 @@
 
 =================
 
-> <h4>:file_folder: Diretórios:</h4>
+> #:file_folder: Diretórios:
 
 - /publico
-- <font-size="10px">/adm
+- /adm
 - /sec</p>
 - /ven</p>
 
-> <h4>:family_man_woman_girl_boy: Grupos:</h4>
+> ## :family_man_woman_girl_boy: Grupos:
 - GRP_ADM
 - GRP_VEN
 - GRP_SEC
 
-> <h4>:adult: :woman: Usuários:</h4>
+> # :adult: :woman: Usuários:
 - carlos (GRP_ADM)
 - maria (GRP_ADM)
 - joao (GRP_ADM)
