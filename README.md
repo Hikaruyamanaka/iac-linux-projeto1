@@ -5,19 +5,19 @@
 
 =================
 
-> :file_folder: Diretórios:
+> <h4>:file_folder: Diretórios:</h4>
 
 - /publico
 - /adm
 - /sec
 - /ven
 
-> :family_man_woman_girl_boy: Grupos:
+> <h4>:family_man_woman_girl_boy: Grupos:</h4>
 - GRP_ADM
 - GRP_VEN
 - GRP_SEC
 
-> :adult: :woman: Usuários:
+> <h4>:adult: :woman: Usuários:</h4>
 - carlos (GRP_ADM)
 - maria (GRP_ADM)
 - joao (GRP_ADM)
@@ -30,7 +30,7 @@
 - amanda (GRP_SEC)
 - rogerio (GRP_SEC)
 
-<h2>:red_circle: Definições:<h2>
+<h3>:red_circle: Definições:</h3>
 
 <p>- Todo o provisionamento deve ser feito em um arquivo do tipo Bash Script;</p>
 <p>- O dono de todos os diretórios criados será o usuário root;</p>
