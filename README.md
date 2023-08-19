@@ -12,12 +12,12 @@
 - /sec
 - /ven
 
-> Grupos:
+> :family_man_woman_girl_boy: Grupos:
 - GRP_ADM
 - GRP_VEN
 - GRP_SEC
 
-> Usuários:
+> :adult: :woman: Usuários:
 - carlos (GRP_ADM)
 - maria (GRP_ADM)
 - joao (GRP_ADM)
