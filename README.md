@@ -9,32 +9,32 @@
 
 - /publico
 - <font-size="10px">/adm
-<p>- /sec</p>
-<p>- /ven</p>
+- /sec</p>
+- /ven</p>
 
 > <h4>:family_man_woman_girl_boy: Grupos:</h4>
-<p>- GRP_ADM</p>
-<p>- GRP_VEN</p>
-<p>- GRP_SEC</p>
+- GRP_ADM
+- GRP_VEN
+- GRP_SEC
 
 > <h4>:adult: :woman: Usuários:</h4>
-<p>- carlos (GRP_ADM)</p>
-<p>- maria (GRP_ADM)</p>
-<p>- joao (GRP_ADM)</p>
+- carlos (GRP_ADM)
+- maria (GRP_ADM)
+- joao (GRP_ADM)
 
-<p>- debora (GRP_VEN)</p>
-<p>- sebastiana (GRP_VEN)</p>
-<p>- roberto (GRP_VEN)</p>
+- debora (GRP_VEN)
+- sebastiana (GRP_VEN)
+- roberto (GRP_VEN)
 
-<p>- josefina (GRP_SEC)</p>
-<p>- amanda (GRP_SEC)</p>
-<p>- rogerio (GRP_SEC)</p>
+- josefina (GRP_SEC)
+- amanda (GRP_SEC)
+- rogerio (GRP_SEC)
 
 <h3>:red_circle: Definições:</h3>
 
-<p>- Todo o provisionamento deve ser feito em um arquivo do tipo Bash Script;</p>
-<p>- O dono de todos os diretórios criados será o usuário root;</p>
-<p>- Todos os usuários terão permissão total dentro do diretório publico;</p>
-<p>- Os usuários de cada grupo terão permissão total dentro do seu respectivo diretório;</p>
-<p>- Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;</p>
-<p>- Subir o arquivo de script criado para a sua conta no Github/Gitlab;</p>
+- Todo o provisionamento deve ser feito em um arquivo do tipo Bash Script;
+- O dono de todos os diretórios criados será o usuário root;
+- Todos os usuários terão permissão total dentro do diretório publico;
+- Os usuários de cada grupo terão permissão total dentro do seu respectivo diretório;
+- Os usuários não poderão ter permissão de leitura, escrita e execução em diretórios de departamentos que eles não pertencem;
+- Subir o arquivo de script criado para a sua conta no Github/Gitlab;
