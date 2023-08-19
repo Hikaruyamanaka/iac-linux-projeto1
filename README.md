@@ -8,27 +8,27 @@
 > <h4>:file_folder: Diretórios:</h4>
 
 - /publico
-- /adm
-- /sec
-- /ven
+<p>- /adm</p>
+<p>- /sec</p>
+<p>- /ven</p>
 
 > <h4>:family_man_woman_girl_boy: Grupos:</h4>
-- GRP_ADM
-- GRP_VEN
-- GRP_SEC
+<p>- GRP_ADM</p>
+<p>- GRP_VEN</p>
+<p>- GRP_SEC</p>
 
 > <h4>:adult: :woman: Usuários:</h4>
-- carlos (GRP_ADM)
-- maria (GRP_ADM)
-- joao (GRP_ADM)
+<p>- carlos (GRP_ADM)</p>
+<p>- maria (GRP_ADM)</p>
+<p>- joao (GRP_ADM)</p>
 
-- debora (GRP_VEN)
-- sebastiana (GRP_VEN)
-- roberto (GRP_VEN)
+<p>- debora (GRP_VEN)</p>
+<p>- sebastiana (GRP_VEN)</p>
+<p>- roberto (GRP_VEN)</p>
 
-- josefina (GRP_SEC)
-- amanda (GRP_SEC)
-- rogerio (GRP_SEC)
+<p>- josefina (GRP_SEC)</p>
+<p>- amanda (GRP_SEC)</p>
+<p>- rogerio (GRP_SEC)</p>
 
 <h3>:red_circle: Definições:</h3>
 
