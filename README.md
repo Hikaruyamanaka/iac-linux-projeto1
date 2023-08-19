@@ -1,23 +1,23 @@
 # :computer: iac-linux-projeto1
 <h1 align="center">Projeto 1 - Infraestrutura como código - Script de criação de estrutura de usuários, diretórios e permissões.</h1>
 
-<h2 align="center">Objetivo: Criar uma estrutura básica do projeto</h2>h2>
+<h2 align="center">Objetivo: Criar uma estrutura básica do projeto</h2>
 
 =================
 
-> #:file_folder: Diretórios:
+> <h3>:file_folder: Diretórios:</h3>
 
 - /publico
 - /adm
 - /sec</p>
 - /ven</p>
 
-> ## :family_man_woman_girl_boy: Grupos:
+> <h3>:family_man_woman_girl_boy: Grupos:</h3>
 - GRP_ADM
 - GRP_VEN
 - GRP_SEC
 
-> # :adult: :woman: Usuários:
+> <h3>:adult: :woman: Usuários:</h3>
 - carlos (GRP_ADM)
 - maria (GRP_ADM)
 - joao (GRP_ADM)
