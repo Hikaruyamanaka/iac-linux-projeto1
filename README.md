@@ -1,7 +1,7 @@
 # :computer: iac-linux-projeto1
-<h1>**Projeto 1 - Infraestrutura como código - Script de criação de estrutura de usuários, diretórios e permissões.**</h1>
+<h1>Projeto 1 - Infraestrutura como código - Script de criação de estrutura de usuários, diretórios e permissões.</h1>
 
-<h2>**Objetivo: Criar uma estrutura básica do projeto**<h2>
+<h2>Objetivo: Criar uma estrutura básica do projeto<h2>
 
 =================
 
