@@ -8,7 +8,7 @@
 > <h4>:file_folder: Diretórios:</h4>
 
 - /publico
-<p>- /adm</p>
+- <font-size="10px">/adm
 <p>- /sec</p>
 <p>- /ven</p>
 
